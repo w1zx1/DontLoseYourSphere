@@ -1,0 +1,11 @@
+# Config for DontLoseYourSphere
+
+# Available languages: en, ru
+language: ru
+
+additional-messages:
+- "&7Лучше не надо это ставить..."
+- "&7Эту штуку лучше оставить в инвентаре."
+#- "&7There is no need to place that."
+#- "&7It's better to keep it in your inventory."
+

@@ -1,0 +1,6 @@
+name: DontLoseYourSphere
+version: ${project.version}
+main: net.w1zx1.noheads.NoPlayerHeads
+api-version: 1.13
+description: Предотвращает потерю сферы.
+author: w1zx1
