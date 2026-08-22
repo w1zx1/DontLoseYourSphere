@@ -1,6 +1,6 @@
-name: DontLoseYourSphere
+name: NeverLoseYourSphere
 version: ${project.version}
 main: net.w1zx1.noheads.NoPlayerHeads
 api-version: 1.13
-description: Предотвращает потерю сферы.
+description: a plugin to prevent players from placing their heads
 author: w1zx1

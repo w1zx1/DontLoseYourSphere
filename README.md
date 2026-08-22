@@ -1,4 +1,4 @@
-## DontLoseYourSphere
+## NeverLoseYourSphere
 плагин для предотвращения потери сферы игроками
 
 ### скачать
